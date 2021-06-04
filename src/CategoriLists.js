@@ -20,3 +20,4 @@ export default class CategoriLists extends Component {
         )
     }
 }
+//deneme
