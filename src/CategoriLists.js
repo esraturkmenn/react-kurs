@@ -20,4 +20,4 @@ export default class CategoriLists extends Component {
         )
     }
 }
-//deneme
+//deneme deneme
